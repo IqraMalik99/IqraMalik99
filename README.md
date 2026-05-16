@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student and passionate full-stack developer currently diving deep into real-world web technologies. I love building responsive, scalable, and interactive web applications using modern tools like the **MERN Stack** and **Socket.IO**.
+I'm a Computer Science student and passionate  full-stack developer currently diving deep into real-world web technologies. I love building responsive, scalable, and interactive web applications using modern tools like the **MERN Stack** and **Socket.IO**.
 
 - 💡 Always learning and exploring new concepts in real-time web development.
 - 🔗 Interested in open-source collaboration and contributing to impactful projects.
@@ -15,6 +15,7 @@ I'm a Computer Science student and passionate full-stack developer currently div
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
+- Nextjs
 - React.js
 - React Query
 - Tailwind CSS
@@ -29,7 +30,8 @@ I'm a Computer Science student and passionate full-stack developer currently div
 
 ### 🗄️ Database
 - MongoDB with Mongoose
-- Firebase (basic)
+- Postgress
+- Firebase / Supabase
 
 ### ☁️ DevOps & Tools
 - Git & GitHub
@@ -37,17 +39,14 @@ I'm a Computer Science student and passionate full-stack developer currently div
 - Render / Vercel / Railway
 - Visual Studio Code
 
----
-
-## 📈 Currently Exploring
-- Next.js and its App Router
-- Real-time systems with Socket.IO
-- MongoDB Aggregation & Performance
-- Linux basics and terminal tools
+### 🤖 AI / Automation / Voice Tech
+- LangChain
+- n8n (workflow automation)
+- Vapi (voice AI agents)
+- ElevenLabs (AI voice generation)
 
 ---
 
 ## 📫 Let's Connect!
 - ✉️ Email: am0774904@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/iqra-malik-937a502a0)
-
