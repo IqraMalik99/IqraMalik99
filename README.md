@@ -1,52 +1,68 @@
 # 👋 Hi, I'm Iqra Malik
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+MERN+Developer;Socket.IO+%7C+MongoDB+%7C+React+%7C+Node.js)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Full-Stack+Engineer;Scalable+Backend+Architecture;AI+Agents+%7C+RAG+%7C+Automation;Next.js+%7C+Node.js+%7C+FastAPI)
 
 ## 🚀 About Me
 
-I'm a Computer Science student and passionate  full-stack developer currently diving deep into real-world web technologies. I love building responsive, scalable, and interactive web applications using modern tools like the **MERN Stack** and **Socket.IO**.
+I'm a **Full-Stack Engineer** shipping production web applications end to end, with a focus on **scalable backend architecture**. I build AI agents that search company documents and automate workflows, replacing manual work with reliable systems.
 
-- 💡 Always learning and exploring new concepts in real-time web development.
-- 🔗 Interested in open-source collaboration and contributing to impactful projects.
-- 🧠 Focused on writing clean, maintainable code and improving best practices.
+- 💼 1.5+ years of contract work with global clients
+- 🤖 Building AI agents, RAG pipelines, and voice automation
+- ⚡ Real-time apps with Socket.IO, JWT auth, and role-based access control
+- 🌍 Performance-focused: edge caching, SEO, and fast page loads
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-- Nextjs
-- React.js
-- React Query
+- React.js, Next.js
+- Redux Toolkit, TanStack Query
 - Tailwind CSS
-- HTML5, CSS3, JavaScript
-- Redux Toolkit
+- HTML5, CSS3
 
 ### 🔙 Backend
-- Node.js
-- Express.js
+- Node.js, Express.js, FastAPI
+- RESTful APIs, JWT Auth
 - Socket.IO (real-time communication)
-- REST APIs
+- Stripe Payments
+
+### 🤖 AI / Agents
+- LangChain, LangGraph
+- RAG Pipelines
+- n8n (workflow automation)
+- ElevenLabs Voice AI
 
 ### 🗄️ Database
-- MongoDB with Mongoose
-- Postgress
-- Firebase / Supabase
+- MongoDB
+- PostgreSQL
 
 ### ☁️ DevOps & Tools
-- Git & GitHub
-- Postman
-- Render / Vercel / Railway
-- Visual Studio Code
+- AWS (IAM, EC2, EBS), Docker, Cloudflare
+- Git, GitHub, Postman, VS Code
 
-### 🤖 AI / Automation / Voice Tech
-- LangChain
-- n8n (workflow automation)
-- Vapi (voice AI agents)
-- ElevenLabs (AI voice generation)
+### 💬 Languages
+- JavaScript (ES6+), TypeScript
+
+---
+
+## 📌 Featured Work
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**CDRLogo**](https://cdrlogo.com) | 100 SEO score, global delivery via Cloudflare edge caching; automated pipeline (Tavily + Serper) that researches and writes SEO-ready content for 100+ logos | Next.js, Cloudflare, PostgreSQL |
+| [**DJ Locate**](https://djlocate.com) | Platform to discover and hire DJs via an interactive map with real-time location filtering, live chat, and instant booking | MERN, Socket.IO, Next.js |
+| **Multi-Agent AI Researcher** | Coordinates autonomous AI agents to research topics in depth | Next.js, LangGraph, FastAPI |
+
+### ⚙️ AI Automation
+- **Inbound Voice Agent**: handles inbound calls with real-time voice responses and syncs every call to the CRM (ElevenLabs, n8n)
+- **Voice-to-Email Appointment Booking**: turns voice requests into confirmed bookings with automatic email and calendar alerts (n8n)
+- **RAG Knowledge Chatbot**: answers questions from a document knowledge base using retrieved context (n8n, RAG)
 
 ---
 
 ## 📫 Let's Connect!
-- ✉️ Email: am0774904@gmail.com  
+- ✉️ Email: iqra.aatzaz.malik@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/iqra-malik-937a502a0)
+- 🐙 [GitHub](https://github.com/IqraMalik99)
+- 📍 Lahore, Pakistan
